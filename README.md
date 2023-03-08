@@ -95,8 +95,9 @@ Introduction to programming in a 1 month peer to peer programming in person even
 
 Overall, the event provided me with an excellent introduction to programming, and allowed me to develop my technical skills in Go, as well as my collaboration, communication, and version control skills.
 
-#### Lycée Français Charles de Gaulle de Londres
-- Baccalauréat Général in Social Sciences and Economics (A-levels equivalent) overall Grade C.
+#### Lycée Français Charles de Gaulle de Londres(Sep 2005 - Jun 2011)
+At the end of my secondary school education I obtained my French Baccalaureate (A-levels equivalent).
+- *Baccalauréat Général* in Social Sciences and Economics.Grade C overall.
 - Specialiased in Maths and Modern Greek. Grades A for both. 
 
 ## Hobbies
