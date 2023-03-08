@@ -86,15 +86,13 @@ I honed my communication skills while completing my thesis at university, which 
 - Ruby, Rails, JavaScript
 - RSpec, Jasmine
 
-#### Your University / College (start_date to end_date)
+#### 01 Founders Immersive Pool (Sep 2022 - Oct 2022)
+- Introduction to programming in a 1 month peer to peer programming in person event with daily challenges to complete in Go.
+- Tech skills: Git, Command Line, Go
 
-- Subject, any specialisms
-- Grade
-- Other cool stuff
-
-#### Any other qualifications
-
-That in some arguable way make you a better software developer or well-rounded person
+#### Lycée Français Charles de Gaulle de Londres
+- Baccalauréat Général in Social Sciences and Economics (A-levels equivalent) overall Grade C.
+- Specialiased in Maths and Modern Greek. Grades A for both. 
 
 ## Hobbies
 
