@@ -24,7 +24,7 @@ _Event Worker_
 
 - Any experience, including roles and responsibilities and results achived in bullet point format.
 
-As an event worker in rugby and football stadiums in hospitality, my responsibilities included:
+As a worker for sporting events in hospitality, my responsibilities included:
 
 - Setting up and preparing the hospitality area before events.
 - Serving food and drinks to guests during events.
