@@ -1,6 +1,15 @@
 ## Your Name
 
-A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what excites you about tech.
+*A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what excites you about tech.*
+
+Hey there, I'm a curious and determined individual with a newfound passion for software engineering. As much as I love whipping up a good dish in the kitchen, I find building tech products and tools just as exciting. After all, what's cooler than being able to blend my two passions - food and tech - and build something that's both innovative and delicious?
+
+I've had some experience working in the world of retail and hospitality, but it was only when I started tinkering with software products that I knew I had found my calling. Being able to create something that has the potential to improve user experience, drive innovation, and facilitate collaboration is a feeling like no other.
+
+As a software engineer, I'm thrilled about the endless opportunities to explore and experiment with my passion for culinary arts. I mean, who knows what kind of amazing product I could build that would combine my love of food with the latest tech? And, even better, I can connect with others who share my interests and collaborate to make something truly amazing.
+
+So, if you're looking for someone with a unique blend of skills and interests, look no further. I'm ready to bring my passion for software engineering and culinary arts to the table and build something truly extraordinary.
+
 
 ## Projects
 
@@ -11,15 +20,38 @@ A sentence about who and what you are. Then a sentence about what you've achieve
 
 ## Work Experience
 
-**Company Name** (start-date to end-date)  
-_Your job title_
+**Profiles Personnel** (Sep-2022 to current)  
+_Event Worker_
 
 - Any experience, including roles and responsibilities and results achived in bullet point format.
 
-**Company Name** (start-date to end-date)  
-_Your job title_
+As an event worker in rugby and football stadiums in hospitality, my responsibilities included:
 
-- Any experience relevent to software development
+- Setting up and preparing the hospitality area before events.
+- Serving food and drinks to guests during events.
+- Ensuring the hospitality area was kept clean and tidy throughout events.
+- Assisting with any customer service issues that arose during events.
+
+Some results achieved during my time in this role include:
+
+- Providing excellent customer service and ensuring guests had a positive experience.
+- Collaborating effectively with other event workers to ensure the smooth running of events.
+- Developing strong communication and time management skills in a fast-paced environment.
+- Maintaining a positive attitude and remaining calm under pressure, even during busy events.
+
+**My Tannour** (10-2021 to 04-2022)  
+_Cook_
+
+*Any experience relevent to software development*
+
+- Prepared and cooked quality Mediterranean food in a fast-paced environment to delight guests
+- Oversaw the day-to-day running of the kitchen, ensuring that all orders were completed accurately and efficiently
+- Managed inventory and ordering of food supplies to ensure the kitchen was always fully stocked and operating smoothly
+- Developed strong time-management and organizational skills, working effectively under pressure to meet deadlines and deliver quality results
+- Maintained a clean and organized kitchen, adhering to strict food safety and hygiene standards to ensure the health and safety of guests and staff.
+
+While this experience may not be directly related to software development, it demonstrates a strong work ethic, attention to detail, and effective communication skills, all of which are transferable to any role. As a software developer, I am committed to applying these skills to deliver quality results and collaborate effectively with team members to achieve success.
+
 
 ## Skills
 
