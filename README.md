@@ -2,14 +2,13 @@
 
 *A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what excites you about tech.*
 
-Hey there, I'm a curious and determined individual with a newfound passion for software engineering. As much as I love whipping up a good dish in the kitchen, I find building tech products and tools just as exciting. After all, what's cooler than being able to blend my two passions - food and tech - and build something that's both innovative and delicious?
+Hey there, I'm a curious and determined individual with a newfound passion for software engineering. As much as I love whipping up a good dish in the kitchen, I find building tech products and tools just as exciting. After all, what's cooler than being able to blend my two passions - food and tech - and build something that's both innovative and delicious? 
 
-I've had some experience working in the world of retail and hospitality, but it was only when I started tinkering with software products that I knew I had found my calling. Being able to create something that has the potential to improve user experience, drive innovation, and facilitate collaboration is a feeling like no other.
+I've had some experience working in the world of retail and hospitality, but it was only when I started tinkering with software products that I knew I had found my calling. Being able to create something that has the potential to improve user experience, drive innovation, and facilitate collaboration is a feeling like no other. 
 
 As a software engineer, I'm thrilled about the endless opportunities to explore and experiment with my passion for culinary arts. I mean, who knows what kind of amazing product I could build that would combine my love of food with the latest tech? And, even better, I can connect with others who share my interests and collaborate to make something truly amazing.
 
-So, if you're looking for someone with a unique blend of skills and interests, look no further. I'm ready to bring my passion for software engineering and culinary arts to the table and build something truly extraordinary.
-
+So, if you're looking for someone with a unique blend of skills and interests, look no further. I'm ready to bring my passion for software engineering and culinary arts to the table and build something truly extraordinary. If you would like to read more about my journey, [click here](https://twitter.com/SebJWylleman) to read about my day to day tech journal!
 
 ## Projects
 
