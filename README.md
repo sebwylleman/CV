@@ -87,8 +87,13 @@ I honed my communication skills while completing my thesis at university, which 
 - RSpec, Jasmine
 
 #### 01 Founders Immersive Pool (Sep 2022 - Oct 2022)
-- Introduction to programming in a 1 month peer to peer programming in person event with daily challenges to complete in Go.
-- Tech skills: Git, Command Line, Go
+Introduction to programming in a 1 month peer to peer programming in person event with daily challenges to complete in Go. During the peer-to-peer programming event, I:
+
+- Completed daily programming challenges in Go, which helped me to develop my problem-solving skills.
+- Collaborated with other participants to debug and optimize our code, which improved my teamwork and communication skills.
+- Used Git and Command Line to manage and track changes to our code, which improved my version control skills.
+
+Overall, the event provided me with an excellent introduction to programming, and allowed me to develop my technical skills in Go, as well as my collaboration, communication, and version control skills.
 
 #### Lycée Français Charles de Gaulle de Londres
 - Baccalauréat Général in Social Sciences and Economics (A-levels equivalent) overall Grade C.
