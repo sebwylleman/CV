@@ -2,13 +2,9 @@
 
 _A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what excites you about tech._
 
-Hey there, I'm a curious and determined individual with a newfound passion for software engineering. As much as I love whipping up a good dish in the kitchen, I find building tech products and tools just as exciting. After all, what's cooler than being able to blend my two passions - food and tech - and build something that's both innovative and delicious?
+Hello there! I am a curious and determined individual with a newfound passion for software engineering. I have had experience working in hospitality where I honed my customer service and problem-solving skills, which have proven to be invaluable in my current role. Although I love whipping up tasty dishes in the kitchen, building innovative tech products and tools is equally exciting. The prospect of combining my passions for food and tech to create something unique is truly inspiring.
 
-I've had some experience working in the world of retail and hospitality, but it was only when I started tinkering with software products that I knew I had found my calling. Being able to create something that has the potential to improve user experience, drive innovation, and facilitate collaboration is a feeling like no other.
-
-As a software engineer, I am excited about exploring and experimenting with my love for culinary arts and building innovative products that incorporate the latest technology. The possibilities are endless, and collaborating with like-minded individuals to create something extraordinary is even more rewarding.
-
-Looking for a unique blend of skills and interests? I am excited to team up and develop exceptional products. Check out my day-to-day updates [here](https://twitter.com/SebJWylleman) to learn more about my journey in tech.
+As a software engineer, I am eager to explore and experiment with my love for culinary arts and incorporate it into my work. The opportunity to develop products that improve user experience, drive innovation, and facilitate collaboration is what motivates me to continue exploring the endless possibilities in this field. Collaborating with like-minded individuals to build exceptional products is an exciting prospect that I look forward to. Check out my day-to-day updates here to learn more about my journey in tech.
 
 ## Projects
 
