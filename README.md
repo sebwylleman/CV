@@ -18,7 +18,7 @@ As a software engineer, I am eager to explore and experiment with my love for cu
 **Profiles Personnel** (Sep-2022 to current)  
 _Event Worker_
 
-- Any experience, including roles and responsibilities and results achived in bullet point format.
+_Any experience, including roles and responsibilities and results achieved in bullet point format_
 
 As a worker for sporting events in hospitality, my responsibilities included:
 
@@ -34,24 +34,22 @@ Some results achieved during my time in this role include:
 - Developing strong communication and time management skills in a fast-paced environment.
 - Maintaining a positive attitude and remaining calm under pressure, even during busy events.
 
-**My Tannour** (10-2021 to 04-2022)  
+**01 Founders** (09-2022 to 10-2022)  
 _Cook_
 
-_Any experience relevent to software development_
+_Any experience relevant to software development_ I
 
-- Prepared and cooked quality Mediterranean food in a fast-paced environment to delight guests
-- Oversaw the day-to-day running of the kitchen, ensuring that all orders were completed accurately and efficiently
-- Managed inventory and ordering of food supplies to ensure the kitchen was always fully stocked and operating smoothly
-- Developed strong time-management and organizational skills, working effectively under pressure to meet deadlines and deliver quality results
-- Maintained a clean and organized kitchen, adhering to strict food safety and hygiene standards to ensure the health and safety of guests and staff.
+_Draft_
 
-While this experience may not be directly related to software development, it demonstrates a strong work ethic, attention to detail, and effective communication skills, all of which are transferable to any role. As a software developer, I am committed to applying these skills to deliver quality results and collaborate effectively with team members to achieve success.
+- Talk about 01F founders pool and how you thrived under pressure with weekly exams, weekend group pairing work. I remember struggling on creating a Sudoku game after only 2 weeks of coding experience.
+  The weekly exams without internet forced me to double down on my fundamentals as there was no access to the internet or other help. Same goes with Go librairies, we weren't allowed to use any functions other than how to print a character. That got us thinking algorithmically a lot, I recall using drawing diagrams,s and flow charts or scribbling down things, as I find that seeing things visualy helped me greatly to problem solve. Overall it was a great experience that I highly recommend to anyone who wants to get a glimpse of this world learning software engineering. The event provided me with an excellent introduction to programming, and allowed me to develop my technical skills in Go, as well as my collaboration, communication, and version control skills. It was valuable to be in a group of individuals of all skillsets, I found mentorship by some students who were more experienced, but I equally mentored others so that was good to really cement my knowledge as 1 month is a short time to learn any skill. Forgot to mention that there weren't any coaches to seek help from, no were there lectures. Our day to day involved peer to peer learning by completing a set of challenges each day, whilst googling or asking around for help from other students doing the same exercises.
+  I am proud that I finised amongst the top performers and was offered a place on the 2 year full-time learning programme. However I felt that I could find employment sooner with Makers so that's the final choice that I made. never thought that I would be semi decent at this, as I hadn't done that kind of math logic in years.
 
 ## Skills
 
-Your previous experience is really important. You will need to make it really clear to someone who has not worked in your field before exactly how your experience will be useful in software development.
+\_Your previous experience is really important. You will need to make it really clear to someone who has not worked in your field before exactly how your experience will be useful in software development.
 
-Consider skills relevent to software development. Then consider projects you've worked on before Makers that you feel proud of and/or you think are relevent to technology. Good examples clearly explain the impact you've had.
+Consider skills relevent to software development. Then consider projects you've worked on before Makers that you feel proud of and/or you think are relevent to technology. Good examples clearly explain the impact you've had\_
 
 Here's an example
 
