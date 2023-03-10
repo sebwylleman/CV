@@ -35,7 +35,7 @@ Some results achieved during my time in this role include:
 - Maintaining a positive attitude and remaining calm under pressure, even during busy events.
 
 **01 Founders** (09-2022 to 10-2022)  
-_Cook_
+_Student_
 
 _Any experience relevant to software development_ I
 
@@ -55,7 +55,11 @@ Here's an example
 
 #### Communication
 
-I honed my communication skills while completing my thesis at university, which involved writing and defending a dissertation to a board of professors and Ph.D. candidates. I further developed these skills when I was working in a digital marketing agency where I presented quarterly business reviews to C-level stakeholders. In doing so, I synthesised complex technical information into a digestible but comprehensive story for the different levels of knowledge in the room. My communication skills have also often come in handy while training to be a developer. For example, I recently ran a session for my mentees, who have only been coding for a few weeks, on how to use mocks to improve unit test isolation. I received feedback that the session was well run and helped them understand this potentially confusing topic.
+My experience in hospitality and retail has allowed me to develop excellent communication skills that I believe will be highly valuable in software development. For example, as a sales associate, I learned to use active listening skills to identify customer needs and provide personalized solutions. Additionally, working in hospitality for sporting events taught me to communicate effectively with diverse customers, adapting my style to different situations and personalities.
+
+These skills have also been useful in my training to be a developer, where I led a session on using agile methodologies to improve team collaboration and project outcomes. I provided clear explanations and examples, ensuring that all participants understood the concepts.
+
+Ultimately, I have developed the ability to communicate effectively with a wide range of individuals, from customers to colleagues to technical experts. I prioritize active listening, clear and concise communication, and providing concrete examples to support my points. I am confident that these skills will be an asset in any future roles that require effective communication.
 
 #### Another skill
 
