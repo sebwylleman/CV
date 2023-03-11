@@ -51,8 +51,6 @@ _Draft_
 
 Consider skills relevent to software development. Then consider projects you've worked on before Makers that you feel proud of and/or you think are relevent to technology. Good examples clearly explain the impact you've had\_
 
-Here's an example
-
 #### Communication
 
 My experience in hospitality and retail has allowed me to develop excellent communication skills that I believe will be highly valuable in software development. For example, as a sales associate, I learned to use active listening skills to identify customer needs and provide personalized solutions. Additionally, working in hospitality for sporting events taught me to communicate effectively with diverse customers, adapting my style to different situations and personalities.
