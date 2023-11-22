@@ -1,6 +1,6 @@
 ## Sebastien Wylleman
 
-Hello, I'm Seb, and I'm actively seeking entry-level software engineering positions. My passion lies in server-side development, which is why I'm currently taking Harvard's CS50 course. With a solid foundation in computer science and programming, I strive to think algorithmically and approach programming challenges with care. My knowledge extends to fundamental concepts like abstraction, algorithms, data structures, encapsulation, resource management, security, software engineering, and web development. I've worked with various languages, including C, Python, SQL, JavaScript, CSS, and HTML. I'm eager to apply this knowledge in a professional setting and continue my journey in software engineering. I warmly invite you to connect with me to discuss potential opportunities!
+Hello, I'm Seb, and I am currently exploring opportunities in entry-level software engineering positions. I have a strong interest in server-side development and core computer science subjects such as algorithms & data structures, resource management, and design patterns. I have experience working with various languages including C, Go, Python, and JavaScript. I look forward to engaging in discussions about how I can contribute to your team.
 
 ## Work Experience
 
