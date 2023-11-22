@@ -1,49 +1,32 @@
 ## Sebastien Wylleman
 
-_A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what excites you about tech._
-
-Hello there! I am a curious and determined individual with a newfound passion for software engineering. I have had experience working in hospitality where I honed my customer service and problem-solving skills, which have proven to be invaluable in my current role. Although I love whipping up tasty dishes in the kitchen, building innovative tech products and tools is equally exciting. The prospect of combining my passions for food and tech to create something unique is truly inspiring.
-
-As a software engineer, I am eager to explore and experiment with my love for culinary arts and incorporate it into my work. The opportunity to develop products that improve user experience, drive innovation, and facilitate collaboration is what motivates me to continue exploring the endless possibilities in this field. Collaborating with like-minded individuals to build exceptional products is an exciting prospect that I look forward to. Check out my day-to-day updates here to learn more about my journey in tech.
-
-## Projects
-
-| Name                         | Description       | Tech/tools        |
-| ---------------------------- | ----------------- | ----------------- |
-| **Final project**            | A webapp to do x. | React, Jest, etc. |
-| **Something else worked on** | A webapp to do y. | Ruby              |
+Hello, I'm Seb, and I'm actively seeking entry-level software engineering positions. My passion lies in server-side development, which is why I'm currently taking Harvard's CS50 course. With a solid foundation in computer science and programming, I strive to think algorithmically and approach programming challenges with care. My knowledge extends to fundamental concepts like abstraction, algorithms, data structures, encapsulation, resource management, security, software engineering, and web development. I've worked with various languages, including C, Python, SQL, JavaScript, CSS, and HTML. I'm eager to apply this knowledge in a professional setting and continue my journey in software engineering. I warmly invite you to connect with me to discuss potential opportunities!
 
 ## Work Experience
 
-**Profiles Personnel** (Sep-2022 to current)  
-_Event Worker_
+**Profiles Personnel** (Sep-2022 to current)
 
-_Any experience, including roles and responsibilities and results achieved in bullet point format_
+In my role in sports event hospitality, I have gained valuable experience that directly translates to software engineering:
 
-As a worker for sporting events in hospitality, my responsibilities included:
+- Collaborated with a team to ensure seamless event execution, demonstrating strong teamwork and communication skills.
+- Thrived in a fast-paced environment, managing time effectively and keeping a positive attitude during high-intensity events.
+- Provided exceptional customer service, enhancing the guest experience through personalized interactions and problem-solving.
+- Conducted post-event evaluations to identify areas for improvement, contributing to ongoing process enhancement and efficiency.
 
-- Setting up and preparing the hospitality area before events.
-- Serving food and drinks to guests during events.
-- Ensuring the hospitality area was kept clean and tidy throughout events.
-- Assisting with any customer service issues that arose during events.
-
-Some results achieved during my time in this role include:
-
-- Providing excellent customer service and ensuring guests had a positive experience.
-- Collaborating effectively with other event workers to ensure the smooth running of events.
-- Developing strong communication and time management skills in a fast-paced environment.
-- Maintaining a positive attitude and remaining calm under pressure, even during busy events.
+These experiences have honed my ability to work effectively in teams, meet deadlines, think creatively, and solve problems. I am confident that these skills will be highly valuable in the field of software engineering, where collaboration, innovation, and problem-solving are essential for success.
 
 **01 Founders** (09-2022 to 10-2022)  
-_Student_
 
-_Any experience relevant to software development_ I
 
-_Draft_
+As a student at 01 Founders, I thrived under pressure with weekly exams and weekend group pairing work. Despite having only two weeks of coding experience, I challenged myself to create a Sudoku game. The program emphasized fundamental skills and thinking algorithmically, which encouraged me to use visual aids like diagrams and flow charts to problem-solve.
 
-- Talk about 01F founders pool and how you thrived under pressure with weekly exams, weekend group pairing work. I remember struggling on creating a Sudoku game after only 2 weeks of coding experience.
-  The weekly exams without internet forced me to double down on my fundamentals as there was no access to the internet or other help. Same goes with Go librairies, we weren't allowed to use any functions other than how to print a character. That got us thinking algorithmically a lot, I recall using drawing diagrams,s and flow charts or scribbling down things, as I find that seeing things visualy helped me greatly to problem solve. Overall it was a great experience that I highly recommend to anyone who wants to get a glimpse of this world learning software engineering. The event provided me with an excellent introduction to programming, and allowed me to develop my technical skills in Go, as well as my collaboration, communication, and version control skills. It was valuable to be in a group of individuals of all skillsets, I found mentorship by some students who were more experienced, but I equally mentored others so that was good to really cement my knowledge as 1 month is a short time to learn any skill. Forgot to mention that there weren't any coaches to seek help from, no were there lectures. Our day to day involved peer to peer learning by completing a set of challenges each day, whilst googling or asking around for help from other students doing the same exercises.
-  I am proud that I finised amongst the top performers and was offered a place on the 2 year full-time learning programme. However I felt that I could find employment sooner with Makers so that's the final choice that I made. never thought that I would be semi decent at this, as I hadn't done that kind of math logic in years.
+The experience provided me with an excellent introduction to programming and allowed me to develop technical skills in Go, as well as my collaboration, communication, and version control skills. I found mentorship by some students who were more experienced, but I equally mentored others, which cemented my knowledge.
+
+The absence of coaches and lectures encouraged peer-to-peer learning and seeking help from fellow students. Completing a set of challenges each day while googling or asking around for help from other students doing the same exercises was our day-to-day routine.
+
+I finished among the top performers and was offered a place in the 2-year full-time learning program. However, I decided to pursue employment sooner with Makers. The experience taught me that I could become proficient in math logic despite not having practiced it for years.
+
+Overall, the 01 Founders program was a valuable experience that helped me develop my technical skills, collaboration, communication, and version control skills while providing an introduction to programming.
 
 ## Skills
 
@@ -58,15 +41,6 @@ My experience in hospitality and retail has allowed me to develop excellent comm
 These skills have also been useful in my training to be a developer, where I led a session on using agile methodologies to improve team collaboration and project outcomes. I provided clear explanations and examples, ensuring that all participants understood the concepts.
 
 Ultimately, I have developed the ability to communicate effectively with a wide range of individuals, from customers to colleagues to technical experts. I prioritize active listening, clear and concise communication, and providing concrete examples to support my points. I am confident that these skills will be an asset in any future roles that require effective communication.
-
-#### Another skill
-
-- I achieved A during my work at B (job, or otherwise)
-- I contributed to the growth of X while doing Y (job, or otherwise)
-- I built this, made this, broke this, fixed this, etc.
-- A link to some on-line evidence (blogs, videos, articles, etc.)
-
-#### Another skill
 
 ## Education
 
@@ -99,4 +73,8 @@ At the end of my secondary school education I obtained my French Baccalaureate (
 
 ## Hobbies
 
-Any cool stuff that makes you a super part of a software development team.
+In my free time, I enjoy pursuing a variety of interests that keep me active and engaged. Some of my favorite hobbies include:
+
+- Playing tennis and football: I love the challenge and excitement of team sports, and staying active is an important part of my lifestyle.
+- Learning how to cook: I enjoy experimenting with new recipes and techniques, and I find the process of preparing and sharing meals to be incredibly rewarding.
+- Exploring new places: Whether it's traveling to a new city or simply discovering a hidden gem in my own neighborhood, I love to explore and learn about different cultures and experiences and being able to share this with my friends and family.
