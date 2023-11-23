@@ -37,7 +37,7 @@ Ultimately, I have developed the ability to communicate effectively with a wide 
 
 ## Education
 
-#### Makers Academy (start_date to end_date)
+#### Makers Academy (03/2023 to 06/2023)
 
 Makers is a highly selective coding bootcamp teaching Software Development in 12 weeks. Focusing on Test Driven Development, with an emphasis on pair programming and working in an agile way including daily stand-ups, retrospectives, and iterative development. A highly collaborative environment helped me to develop not only my technical skills but also my ability to work in a team and communicate effectively with others.
 
@@ -52,7 +52,7 @@ Acquired further skills in:
 
 - **Independent learning and problem-solving:** Cultivated skills in researching, analyzing, and solving complex problems independently. Developed the ability to learn new technologies, tools, and frameworks quickly and efficiently, while maintaining a high level of attention to detail.
 
-#### Lycée Français Charles de Gaulle de Londres(Sep 2005 - Jun 2011)
+#### Lycée Français Charles de Gaulle de Londres (Sep 2005 - Jun 2011)
 
 At the end of my secondary school education I obtained my French Baccalaureate (A-levels equivalent).
 
@@ -61,8 +61,8 @@ At the end of my secondary school education I obtained my French Baccalaureate (
   
 ## Hobbies
 
-In my free time, I enjoy pursuing a variety of interests that keep me active and engaged. Some of my favorite hobbies include:
+Here are a some of my favourites:
 
-- Playing tennis and football: I love the challenge and excitement of team sports, and staying active is an important part of my lifestyle.
-- Learning how to cook: I enjoy experimenting with new recipes and techniques, and I find the process of preparing and sharing meals to be incredibly rewarding.
-- Exploring new places: Whether it's traveling to a new city or simply discovering a hidden gem in my own neighborhood, I love to explore and learn about different cultures and experiences and being able to share this with my friends and family.
+- Playing tennis and football: I'm a big fan of team sports, and there's nothing quite like the rush of adrenaline that comes with a good match. Plus, staying active is a key part of my lifestyle.
+  
+- Cooking, I've been channeling my inner Gordon Ramsay and diving headfirst into the world of cooking. Watching him on TV as a kid definitely left a lasting impression, and I've been curious with trying out new recipes and techniques ever since. But let's be honest, not every dish I make is up to par. Sometimes I don't quite hit the mark, and my poor guests have to suffer through it. We all have our moments, right? So, bear with me as I continue to whip up surprises in the kitchen.
