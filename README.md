@@ -17,22 +17,15 @@ These experiences have honed my ability to work effectively in teams, meet deadl
 
 **01 Founders** (09-2022 to 10-2022)  
 
-
 As a student at 01 Founders, I thrived under pressure with weekly exams and weekend group pairing work. Despite having only two weeks of coding experience, I challenged myself to create a Sudoku game. The program emphasized fundamental skills and thinking algorithmically, which encouraged me to use visual aids like diagrams and flow charts to problem-solve.
 
 The experience provided me with an excellent introduction to programming and allowed me to develop technical skills in Go, as well as my collaboration, communication, and version control skills. I found mentorship by some students who were more experienced, but I equally mentored others, which cemented my knowledge.
 
 The absence of coaches and lectures encouraged peer-to-peer learning and seeking help from fellow students. Completing a set of challenges each day while googling or asking around for help from other students doing the same exercises was our day-to-day routine.
 
-I finished among the top performers and was offered a place in the 2-year full-time learning program. However, I decided to pursue employment sooner with Makers. The experience taught me that I could become proficient in math logic despite not having practiced it for years.
-
 Overall, the 01 Founders program was a valuable experience that helped me develop my technical skills, collaboration, communication, and version control skills while providing an introduction to programming.
 
 ## Skills
-
-\_Your previous experience is really important. You will need to make it really clear to someone who has not worked in your field before exactly how your experience will be useful in software development.
-
-Consider skills relevent to software development. Then consider projects you've worked on before Makers that you feel proud of and/or you think are relevent to technology. Good examples clearly explain the impact you've had\_
 
 #### Communication
 
@@ -51,23 +44,13 @@ Makers is a highly selective coding bootcamp teaching Software Development in 12
 
 Acquired further skills in:
 
-- ***Test Driven Development (TDD):*** Gained practical experience in writing tests before writing code, with a strong emphasis on pair programming. Developed skills in creating test suites, implementing test cases, and using TDD to drive software design and development.
+- **Test Driven Development (TDD):** Gained practical experience in writing tests before writing code, with a strong emphasis on pair programming. Developed skills in creating test suites, implementing test cases, and using TDD to drive software design and development.
 
-- ***Object-oriented programming (OOP):*** Acquired a solid understanding of OOP concepts such as encapsulation, inheritance, and polymorphism. Demonstrated proficiency in applying these concepts to create reusable, modular, and maintainable code.
+- **Object-oriented programming (OOP):** Acquired a solid understanding of OOP concepts such as encapsulation, inheritance, and polymorphism. Demonstrated proficiency in applying these concepts to create reusable, modular, and maintainable code.
 
-- ***Model-View-Controller (MVC) framework patterns:*** Developed experience in using MVC patterns to design and develop web applications. Gained knowledge of how to separate concerns and responsibilities between models, views, and controllers to create scalable and maintainable code.
+- **Model-View-Controller (MVC) framework patterns:** Developed experience in using MVC patterns to design and develop web applications. Gained knowledge of how to separate concerns and responsibilities between models, views, and controllers to create scalable and maintainable code.
 
-- ***Independent learning and problem-solving:*** Cultivated skills in researching, analyzing, and solving complex problems independently. Developed the ability to learn new technologies, tools, and frameworks quickly and efficiently, while maintaining a high level of attention to detail.
-
-#### 01 Founders Immersive Pool (Sep 2022 - Oct 2022)
-
-Introduction to programming in a 1 month peer to peer programming in person event with daily challenges to complete in Go. During the peer-to-peer programming event, I:
-
-- Completed daily programming challenges in Go, which helped me to develop my problem-solving skills.
-- Collaborated with other participants to debug and optimize our code, which improved my teamwork and communication skills.
-- Used Git and Command Line to manage and track changes to our code, which improved my version control skills.
-
-Overall, the event provided me with an excellent introduction to programming, and allowed me to develop my technical skills in Go, as well as my collaboration, communication, and version control skills.
+- **Independent learning and problem-solving:** Cultivated skills in researching, analyzing, and solving complex problems independently. Developed the ability to learn new technologies, tools, and frameworks quickly and efficiently, while maintaining a high level of attention to detail.
 
 #### Lycée Français Charles de Gaulle de Londres(Sep 2005 - Jun 2011)
 
