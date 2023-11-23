@@ -56,9 +56,9 @@ Acquired further skills in:
 
 At the end of my secondary school education I obtained my French Baccalaureate (A-levels equivalent).
 
-- _Baccalauréat Général_ in Social Sciences and Economics.Grade C overall.
-- Specialiased in Maths and Modern Greek. Grades A for both.
-
+- _Baccalauréat Général_ in Social Sciences and Economics.
+- Specialiased in Maths and Modern Greek.
+  
 ## Hobbies
 
 In my free time, I enjoy pursuing a variety of interests that keep me active and engaged. Some of my favorite hobbies include:
