@@ -44,13 +44,13 @@ Makers is a highly selective coding bootcamp teaching Software Development in 12
 
 Acquired further skills in:
 
-- **Test Driven Development:** Gained practical experience in writing tests before writing code, with a strong emphasis on pair programming. Developed skills in creating test suites, implementing test cases, and using TDD to drive software design and development.
+- Test Driven Development: Gained practical experience in writing tests before writing code, with a strong emphasis on pair programming. Developed skills in creating test suites, implementing test cases, and using TDD to drive software design and development.
 
-- **Object-oriented programming:** Acquired a solid understanding of OOP concepts such as encapsulation, inheritance, and polymorphism. Demonstrated proficiency in applying these concepts to create reusable, modular, and maintainable code.
+- Object-oriented programming: Acquired a solid understanding of OOP concepts such as encapsulation, inheritance, and polymorphism. Demonstrated proficiency in applying these concepts to create reusable, modular, and maintainable code.
 
-- **Model-View-Controller framework patterns:** Developed experience in using MVC patterns to design and develop web applications. Gained knowledge of how to separate concerns and responsibilities between models, views, and controllers to create scalable and maintainable code.
+- Model-View-Controller framework patterns: Developed experience in using MVC patterns to design and develop web applications. Gained knowledge of how to separate concerns and responsibilities between models, views, and controllers to create scalable and maintainable code.
 
-- **Independent learning and problem-solving:** Cultivated skills in researching, analyzing, and solving complex problems independently. Developed the ability to learn new technologies, tools, and frameworks quickly and efficiently, while maintaining a high level of attention to detail.
+- Independent learning and problem-solving: Cultivated skills in researching, analyzing, and solving complex problems independently. Developed the ability to learn new technologies, tools, and frameworks quickly and efficiently, while maintaining a high level of attention to detail.
 
 #### Lycée Français Charles de Gaulle de Londres (Sep 2005 - Jun 2011)
 
