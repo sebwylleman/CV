@@ -46,13 +46,18 @@ Ultimately, I have developed the ability to communicate effectively with a wide 
 
 #### Makers Academy (start_date to end_date)
 
-- Use short descriptions of what you did and a skill you used. (Similar to format from the 'Work Experience' section above)
-- e.g Frequently used paring in order to problemsolve effeciently, requiring teamwork and communication.
-- you might also mention aspects some other skills/knowledge listed below:
-- OOP, TDD, MVC, DDD
-- Agile/XP
-- Ruby, Rails, JavaScript
-- RSpec, Jasmine
+Makers is a highly selective coding bootcamp teaching Software Development in 12 weeks. Focusing on Test Driven Development, with an emphasis on pair programming and working in an agile way including daily stand-ups, retrospectives, and iterative development. A highly collaborative environment helped me to develop not only my technical skills but also my ability to work in a team and communicate effectively with others.
+
+
+Acquired further skills in:
+
+- ***Test Driven Development (TDD):*** Gained practical experience in writing tests before writing code, with a strong emphasis on pair programming. Developed skills in creating test suites, implementing test cases, and using TDD to drive software design and development.
+
+- ***Object-oriented programming (OOP):*** Acquired a solid understanding of OOP concepts such as encapsulation, inheritance, and polymorphism. Demonstrated proficiency in applying these concepts to create reusable, modular, and maintainable code.
+
+- ***Model-View-Controller (MVC) framework patterns:*** Developed experience in using MVC patterns to design and develop web applications. Gained knowledge of how to separate concerns and responsibilities between models, views, and controllers to create scalable and maintainable code.
+
+- ***Independent learning and problem-solving:*** Cultivated skills in researching, analyzing, and solving complex problems independently. Developed the ability to learn new technologies, tools, and frameworks quickly and efficiently, while maintaining a high level of attention to detail.
 
 #### 01 Founders Immersive Pool (Sep 2022 - Oct 2022)
 
