@@ -15,15 +15,6 @@ In my role in sports event hospitality, I have gained valuable experience that d
 
 These experiences have honed my ability to work effectively in teams, meet deadlines, think creatively, and solve problems. I am confident that these skills will be highly valuable in the field of software engineering, where collaboration, innovation, and problem-solving are essential for success.
 
-**01 Founders** (09-2022 to 10-2022)  
-
-As a student at 01 Founders, I thrived under pressure with weekly exams and weekend group pairing work. Despite having only two weeks of coding experience, I challenged myself to create a Sudoku game. The program emphasized fundamental skills and thinking algorithmically, which encouraged me to use visual aids like diagrams and flow charts to problem-solve.
-
-The experience provided me with an excellent introduction to programming and allowed me to develop technical skills in Go, as well as my collaboration, communication, and version control skills. I found mentorship by some students who were more experienced, but I equally mentored others, which cemented my knowledge.
-
-The absence of coaches and lectures encouraged peer-to-peer learning and seeking help from fellow students. Completing a set of challenges each day while googling or asking around for help from other students doing the same exercises was our day-to-day routine.
-
-Overall, the 01 Founders program was a valuable experience that helped me develop my technical skills, collaboration, communication, and version control skills while providing an introduction to programming.
 
 ## Skills
 
