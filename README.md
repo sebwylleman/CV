@@ -1,6 +1,6 @@
 ## Sebastien Wylleman
 
-Hello, I'm Seb, and I am currently exploring opportunities in entry-level software engineering positions. I have a strong interest in server-side development and core computer science subjects such as algorithms & data structures, resource management, and design patterns. I have experience working with various languages including C, Go, Python, and JavaScript. I look forward to engaging in discussions about how I can contribute to your team.
+Hello, I'm Seb! Newly exploring DevOps and excited to learn! My background in server-side development (C, Go, Python, JS) and core CS (algorithms, data structures) gives me a solid foundation. Eager to contribute and collaborate, always open to learning and growing with a team.
 
 ## Work Experience
 
