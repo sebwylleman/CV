@@ -1,6 +1,6 @@
 ## Sebastien Wylleman
 
-Hello, I'm Seb! Newly exploring DevOps and excited to learn! My background in server-side development (C, Go, Python, JS) and core CS (algorithms, data structures) gives me a solid foundation. Eager to contribute and collaborate, always open to learning and growing with a team.
+Hello, I'm Seb! Newly exploring DevOps and excited to learn!
 
 ## Work Experience
 
