@@ -42,18 +42,11 @@ Acquired further skills in:
 - Model-View-Controller framework patterns: Developed experience in using MVC patterns to design and develop web applications. Gained knowledge of how to separate concerns and responsibilities between models, views, and controllers to create scalable and maintainable code.
 
 - Independent learning and problem-solving: Cultivated skills in researching, analyzing, and solving complex problems independently. Developed the ability to learn new technologies, tools, and frameworks quickly and efficiently, while maintaining a high level of attention to detail.
-
-#### Lycée Français Charles de Gaulle de Londres (Sep 2005 - Jun 2011)
-
-At the end of my secondary school education I obtained my French Baccalaureate (A-levels equivalent).
-
-- _Baccalauréat Général_ in Social Sciences and Economics.
-- Specialiased in Maths and Modern Greek.
   
 ## Hobbies
 
 Here are a some of my favourites:
 
-- Playing tennis and football: I'm a big fan of team sports, and there's nothing quite like the rush of adrenaline that comes with a good match. Plus, staying active is a key part of my lifestyle.
+- Playing tennis and football: I'm a big fan of team sports, and there's nothing quite like the rush of adrenaline that comes with a good match.
   
-- Cooking, I've been channeling my inner Gordon Ramsay and diving headfirst into the world of cooking. Watching him on TV as a kid definitely left a lasting impression, and I've been curious with trying out new recipes and techniques ever since. But let's be honest, not every dish I make is up to par. Sometimes I don't quite hit the mark, and my poor guests have to suffer through it. We all have our moments, right? So, bear with me as I continue to whip up surprises in the kitchen.
+- Cooking, I've been channeling my inner Gordon Ramsay and diving headfirst into the world of cooking. Watching him on TV as a kid definitely left a lasting impression, and I've been curious with trying out new recipes and techniques ever since. Let's face it, not every dish I prepare meets the mark, but I'm proud to say the fire alarm remains silent—for now, at least!
