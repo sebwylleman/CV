@@ -39,6 +39,6 @@ Beyond technical expertise, the bootcamp fostered essential skills like **proble
 
 Here are some of my favourite:
 
-Playing **tennis**: I'm a big fan of racket sports, and there's nothing quite like the rush of adrenaline that comes with a friendly game. Although I must admit my serve does need some work!
+Playing **tennis**, I'm a big fan of racket sports, and there's nothing quite like the rush of adrenaline that comes with a friendly game. Although I must admit my serve does need some work!
 
 I am also into **cooking**, I've been channelling my inner Gordon Ramsay and diving headfirst into the world of cooking. Watching him on TV as a kid left a lasting impression, and I've been curious about trying new recipes and techniques ever since. Let's face it, not every dish I prepare meets the mark, but I'm proud to say the fire alarm remains silent—for now, at least.
