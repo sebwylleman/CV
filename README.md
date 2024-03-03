@@ -37,7 +37,7 @@ Beyond technical expertise, the bootcamp fostered essential skills like **proble
 
 ## Hobbies
 
-Here are some of my favourite:
+Some of my favourite:
 
 Playing **tennis**, I'm a big fan of racket sports, and there's nothing quite like the rush of adrenaline that comes with a friendly game. Although I must admit my serve does need some work!
 
