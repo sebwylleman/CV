@@ -4,7 +4,7 @@ Hello! I'm Seb, a Makers Academy graduate with a passion for automation and opti
 
 ## DevOps Projects
 
-| Project Name | Description | Tech Used |
+| Name | Description | Tech Used |
 |---|---|---|
 | [user-wrangler](https://github.com/sebwylleman/user-wrangler) | I developed shell scripts to automate user account creation, deletion, and management on a local system, prioritising security and data preservation. | Bash Scripting, Linux, Git |
 
