@@ -1,52 +1,69 @@
-## Sebastien Wylleman
+## ABOUT ME
 
-Hello, I'm Seb! Newly exploring DevOps and excited to learn!
+Hello! I'm Seb, a Makers Academy graduate with a passion for automation and optimising systems. My background in hospitality honed valuable skills like attention to detail, collaboration, and problem-solving, which I believe translate perfectly to the DevOps mindset.
 
-## Work Experience
+## DEVOPS PROJECT
 
-**Profiles Personnel** (Sep-2022 to current)
+User Account Management Suite (Link to your Github repository)
 
-In my role in sports event hospitality, I have gained valuable experience that directly translates to software engineering:
+This project showcases a suite of shell scripts designed to automate user account management on a local system. It offers functionalities for both user creation and removal, prioritizing security and data preservation throughout the process.
 
-- Collaborated with a team to ensure seamless event execution, demonstrating strong teamwork and communication skills.
-- Thrived in a fast-paced environment, managing time effectively and keeping a positive attitude during high-intensity events.
-- Provided exceptional customer service, enhancing the guest experience through personalized interactions and problem-solving.
-- Conducted post-event evaluations to identify areas for improvement, contributing to ongoing process enhancement and efficiency.
+Key Learnings:
 
-These experiences have honed my ability to work effectively in teams, meet deadlines, think creatively, and solve problems. I am confident that these skills will be highly valuable in the field of software engineering, where collaboration, innovation, and problem-solving are essential for success.
+Shell Scripting: Developed essential scripting skills like user input validation, conditional statements, file manipulation, and user account management functions.
+Security: The script enforces security best practices by:
+Requiring superuser privileges for execution.
+Generating strong, random passwords for new accounts.
+Not echoing passwords to the console.
+Enforcing password change on first login.
+System Administration: The project involved interacting with core system administration commands like useradd, passwd, userdel, and chage, demonstrating my understanding of these tools.
+Functionalities:
 
+Secure User Provisioning: Creates new user accounts with customizable comments and enforces strong password policies.
+Account Disabling: Safely disables existing user accounts while preserving their home directories.
+Optional User Deletion: Provides an option for permanent user deletion with safeguards to prevent accidental removal of critical accounts.
+Optional Home Directory Archiving: Offers the ability to create an archive of the user's home directory before deletion (if the deletion option is chosen).
+Benefits:
 
-## Skills
+This suite demonstrates my ability to automate a crucial system administration task while prioritizing security and data integrity. It showcases a well-rounded understanding of user lifecycle management within a system and highlights essential DevOps skills like scripting and automation.
 
-#### Communication
+Note: Replace (Link to your Github repository) with the actual link to your project. 
 
-My experience in hospitality and retail has allowed me to develop excellent communication skills that I believe will be highly valuable in software development. For example, as a sales associate, I learned to use active listening skills to identify customer needs and provide personalized solutions. Additionally, working in hospitality for sporting events taught me to communicate effectively with diverse customers, adapting my style to different situations and personalities.
+## WORK EXPERIENCE
 
-These skills have also been useful in my training to be a developer, where I led a session on using agile methodologies to improve team collaboration and project outcomes. I provided clear explanations and examples, ensuring that all participants understood the concepts.
+#### Profiles Personnel - Hospitality Events Staff (2022 to current)
 
-Ultimately, I have developed the ability to communicate effectively with a wide range of individuals, from customers to colleagues to technical experts. I prioritize active listening, clear and concise communication, and providing concrete examples to support my points. I am confident that these skills will be an asset in any future roles that require effective communication.
+My role at Profiles Personnel in sports event hospitality has been a training ground for the fast-paced, multifaceted world of DevOps.  The role demanded a diverse skillset that directly translates to the needs of a DevOps engineer:
+
+**Generalist Mindset & Adaptability**: I wore many hats, leading catering teams, ensuring seamless service delivery, and managing inventory control to prevent stockouts. This experience honed my ability to learn various tools and procedures quickly, adapting to changing situations on the fly. It's a crucial skill for DevOps engineers who need to be agile by tackling various problems across different areas of the Software Development life cycle. 
+
+**Example**: During a large-scale sporting event with multiple concession stands, we encountered a sudden surge in demand for a specific beverage that threatened to deplete our stock. By quickly analysing real-time inventory data and collaborating with logistics personnel, I identified an under-stocked stand with excess of a similar drink. I coordinated the transfer of surplus stock between stands, ensuring uninterrupted service and preventing customer frustration. This proactive approach minimised disruption and ensured a smooth customer experience throughout the event.
+
+#### My Tannour - Line Cook** (2021 to 2022)
+
+While seemingly unrelated, my experience as a Line Cook surprisingly aligns with DevOps principles:
+
+**Attention to Detail & Clear Communication**: Following recipes precisely and meticulously documenting steps mirrors the importance of scripting in DevOps. Both require a keen eye for detail and clear instructions to ensure consistent, high-quality results.
+  
+**Example**: By creating a detailed prep schedule that batched similar tasks for each menu item, I reduced prep time by an average of 15%. This allowed the kitchen staff to focus on maintaining quality and efficiency during peak service hour
 
 ## Education
 
 #### Makers Academy (03/2023 to 06/2023)
 
-Makers is a highly selective coding bootcamp teaching Software Development in 12 weeks. Focusing on Test Driven Development, with an emphasis on pair programming and working in an agile way including daily stand-ups, retrospectives, and iterative development. A highly collaborative environment helped me to develop not only my technical skills but also my ability to work in a team and communicate effectively with others.
-
+**Makers** is a highly selective coding bootcamp teaching Software Engineering in 12 weeks. Focusing on Test Driven Development, with an emphasis on pair programming and working in an agile way including daily stand-ups, retrospectives, and iterative development. A highly collaborative environment helped me to develop not only my technical skills but also my ability to work in a team and communicate effectively with others.
 
 Acquired further skills in:
 
-- Test Driven Development: Gained practical experience in writing tests before writing code, with a strong emphasis on pair programming. Developed skills in creating test suites, implementing test cases, and using TDD to drive software design and development.
+**Test Driven Development**: Gained practical experience in writing tests before writing code, with a strong emphasis on pair programming. Developed skills in creating test suites, implementing test cases, and using TDD to drive software design and development.
 
-- Object-oriented programming: Acquired a solid understanding of OOP concepts such as encapsulation, inheritance, and polymorphism. Demonstrated proficiency in applying these concepts to create reusable, modular, and maintainable code.
+**Object-oriented programming**: Acquired a solid understanding of OOP concepts such as encapsulation, inheritance, and polymorphism. Demonstrated proficiency in applying these concepts to create reusable, modular, and maintainable code.
 
-- Model-View-Controller framework patterns: Developed experience in using MVC patterns to design and develop web applications. Gained knowledge of how to separate concerns and responsibilities between models, views, and controllers to create scalable and maintainable code.
-
-- Independent learning and problem-solving: Cultivated skills in researching, analyzing, and solving complex problems independently. Developed the ability to learn new technologies, tools, and frameworks quickly and efficiently, while maintaining a high level of attention to detail.
+**Independent learning and problem-solving**: Cultivated skills in researching, analysing, and solving complex problems independently. Developed the ability to learn new technologies, tools, and frameworks quickly and efficiently, while maintaining a high level of attention to detail.
   
 ## Hobbies
 
-Here are a some of my favourites:
+Here are a some of my favourite:
 
-- Playing tennis and football: I'm a big fan of team sports, and there's nothing quite like the rush of adrenaline that comes with a good match.
-  
-- Cooking, I've been channeling my inner Gordon Ramsay and diving headfirst into the world of cooking. Watching him on TV as a kid definitely left a lasting impression, and I've been curious with trying out new recipes and techniques ever since. Let's face it, not every dish I prepare meets the mark, but I'm proud to say the fire alarm remains silent—for now, at least!
+Playing **tennis**: I'm a big fan of racket sports, and there's nothing quite like the rush of adrenaline that comes with a friendly game. Although I must admit my serve does need some work!
+I am also into **cooking**, I've been channeling my inner Gordon Ramsay and diving headfirst into the world of cooking. Watching him on TV as a kid definitely left a lasting impression, and I've been curious with trying out new recipes and techniques ever since. Let's face it, not every dish I prepare meets the mark, but I'm proud to say the fire alarm remains silent—for now, at least.
