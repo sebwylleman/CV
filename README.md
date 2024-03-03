@@ -29,18 +29,12 @@ While seemingly unrelated, my experience as a Line Cook surprisingly aligns with
 
 ## Education
 
-### Makers Academy (03/2023 to 06/2023)
+### Makers Academy - Software Engineering (03/2023 to 06/2023)
 
-**Makers** is a highly selective coding bootcamp teaching Software Engineering in 12 weeks. Focusing on Test Driven Development, with an emphasis on pair programming and working in an agile way including daily stand-ups, retrospectives, and iterative development. A highly collaborative environment helped me to develop not only my technical skills but also my ability to work in a team and communicate effectively with others.
+In my intensive MERN stack web development bootcamp at Makers Academy, I embarked on an accelerated journey into the world of software engineering. This immersive program condensed months of learning into a focused curriculum, equipping me with the technical skills to build modern web applications from the ground up. Through hands-on projects, I gained a strong foundation in both front-end (React.js) and back-end (Node.js & MongoDB) development. 
 
-Acquired further skills in:
+Beyond technical expertise, the bootcamp fostered essential skills like **problem-solving**, **collaboration**, and navigating the **agile** development workflow. This training provided me with a solid foundation in web development.
 
-**Test Driven Development**: Gained practical experience in writing tests before writing code, with a strong emphasis on pair programming. Developed skills in creating test suites, implementing test cases, and using TDD to drive software design and development.
-
-**Object-oriented programming**: Acquired a solid understanding of OOP concepts such as encapsulation, inheritance, and polymorphism. Applying these concepts to create reusable, modular, and maintainable code.
-
-**Independent learning and problem-solving**: Cultivated skills in researching, analysing, and solving complex problems independently. Developed the ability to learn new technologies, tools, and frameworks quickly and efficiently, while maintaining a high level of attention to detail.
-  
 ## Hobbies
 
 Here are some of my favourite:
