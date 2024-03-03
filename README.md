@@ -1,8 +1,6 @@
-## ABOUT ME
+## About me
 
 Hello! I'm Seb, a Makers Academy graduate with a passion for automation and optimising systems. My background in hospitality honed valuable skills like attention to detail, collaboration, and problem-solving, which I believe translate perfectly to the DevOps mindset.
-
-## DEVOPS PROJECT
 
 ## DevOps Projects
 
@@ -11,8 +9,7 @@ Hello! I'm Seb, a Makers Academy graduate with a passion for automation and opti
 | [user-wrangler](https://github.com/sebwylleman/user-wrangler) | Automates user account creation, deletion, and management on a local system. | Shell Scripting, Linux System Administration Commands |
 
 
-
-## WORK EXPERIENCE
+## Work Experience
 
 #### Profiles Personnel - Hospitality Events Staff (2022 to current)
 
