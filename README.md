@@ -4,30 +4,13 @@ Hello! I'm Seb, a Makers Academy graduate with a passion for automation and opti
 
 ## DEVOPS PROJECT
 
-User Account Management Suite (Link to your Github repository)
+## DevOps Projects
 
-This project showcases a suite of shell scripts designed to automate user account management on a local system. It offers functionalities for both user creation and removal, prioritizing security and data preservation throughout the process.
+| Project Name | Description | Tech Used |
+|---|---|---|
+| [user-wrangler](https://github.com/sebwylleman/user-wrangler) | Automates user account creation, deletion, and management on a local system. | Shell Scripting, Linux System Administration Commands |
 
-Key Learnings:
 
-Shell Scripting: Developed essential scripting skills like user input validation, conditional statements, file manipulation, and user account management functions.
-Security: The script enforces security best practices by:
-Requiring superuser privileges for execution.
-Generating strong, random passwords for new accounts.
-Not echoing passwords to the console.
-Enforcing password change on first login.
-System Administration: The project involved interacting with core system administration commands like useradd, passwd, userdel, and chage, demonstrating my understanding of these tools.
-Functionalities:
-
-Secure User Provisioning: Creates new user accounts with customizable comments and enforces strong password policies.
-Account Disabling: Safely disables existing user accounts while preserving their home directories.
-Optional User Deletion: Provides an option for permanent user deletion with safeguards to prevent accidental removal of critical accounts.
-Optional Home Directory Archiving: Offers the ability to create an archive of the user's home directory before deletion (if the deletion option is chosen).
-Benefits:
-
-This suite demonstrates my ability to automate a crucial system administration task while prioritizing security and data integrity. It showcases a well-rounded understanding of user lifecycle management within a system and highlights essential DevOps skills like scripting and automation.
-
-Note: Replace (Link to your Github repository) with the actual link to your project. 
 
 ## WORK EXPERIENCE
 
