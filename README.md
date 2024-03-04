@@ -6,7 +6,8 @@ Hello! I'm Seb, a Makers Academy graduate with a passion for automation and opti
 
 | Name | Description | Tech Used |
 |---|---|---|
-| [user-wrangler](https://github.com/sebwylleman/user-wrangler) | I developed shell scripts to automate user account creation, deletion, and management on a local system, prioritising security and data preservation. | Bash Scripting, Linux, Git |
+| [user-wrangler](https://github.com/sebwylleman/user-wrangler) | Automated secure user account management on Linux using Bash scripting. | Bash Scripting, Linux, Vim, Git |
+| [server-operations-toolkit](https://github.com/sebwylleman/server-operations-toolkit) | Built Bash scripts to streamline server operations, enhancing my skills in scripting, SSH, and security. | Bash Scripting, Linux, Vim Git |
 
 
 ## Work Experience
