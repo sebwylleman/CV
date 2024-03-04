@@ -26,7 +26,7 @@ While seemingly unrelated, my experience as a Line Cook surprisingly aligns with
 
 **Attention to Detail & Clear Communication**: Following recipes precisely and meticulously documenting steps mirrors the importance of scripting in DevOps. Both require a keen eye for detail and clear instructions to ensure consistent, high-quality results.
   
-**Example**: By creating a detailed prep schedule that batched similar tasks for each menu item, I reduced prep time by an average of 25%. This allowed the kitchen staff to focus on maintaining quality and efficiency during peak service hour.
+**Example**: By creating a detailed prep schedule that batched similar tasks for each menu item, I reduced prep time by an average of 25%. This allowed the kitchen staff to focus on maintaining quality and efficiency during peak service hours.
 
 ## Education
 
