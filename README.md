@@ -40,4 +40,4 @@ Beyond technical expertise, the bootcamp fostered essential skills like **proble
 
 Playing **tennis**: I'm a big fan of racket sports, and there's nothing quite like the rush of adrenaline that comes with a friendly game. Although I must admit my serve does need some work!
 
-Exploring **Linux**: I'm new to the tech meetup scene, but I've recently discovered a fantastic local Linux Users group in London. These meetups are a great way to connect with fellow Linux enthusiasts, share cool projects, and dive deep into the latest advancements in the tech world.
+Exploring **Linux**: I'm new to the tech meetup scene, but I've recently discovered a fantastic local Linux Users group in London. These meetups are great to connect with fellow Linux enthusiasts, share cool projects, and dive deep into the latest advancements in the tech world.
