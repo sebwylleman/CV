@@ -7,7 +7,7 @@ Hello! I'm Sebastien, a Makers Academy graduate with a passion for automation an
 | Name | Description | Tech Used |
 |---|---|---|
 | [user-wrangler](https://github.com/sebwylleman/user-wrangler) | Automated secure user account management on Linux using Bash scripting. | Bash Scripting, Linux, Vim, Git |
-| [server-operations-toolkit](https://github.com/sebwylleman/server-operations-toolkit) | Built Bash scripts to streamline server operations, enhancing my skills in scripting, SSH, and security. | Bash Scripting, Linux, Vim Git |
+| [server-operations-toolkit](https://github.com/sebwylleman/server-operations-toolkit) | Built Bash scripts to streamline server operations, enhancing my skills in scripting, SSH, and security. | Bash Scripting, Linux, Vim, Git |
 
 
 ## Work Experience
@@ -38,6 +38,6 @@ Beyond technical expertise, the bootcamp fostered essential skills like **proble
 
 ## Hobbies
 
-Playing **tennis**: I'm a big fan of racket sports, and there's nothing quite like the rush of adrenaline that comes with a friendly game. Although I must admit my serve does need some work!
+Playing **Tennis**: Occasionally attempting to hit the ball over the net, often resulting in more laughs than points scored. Embracing the joy of the game without taking myself too seriously.
 
-Exploring **Linux**: I'm new to the tech meetup scene, but I've recently discovered a fantastic local Linux Users group in London. These get-togethers are great to connect with fellow Linux enthusiasts, share cool projects, and dive deep into the latest advancements in the tech world.
+Exploring **Linux**: Dabbling in the world of Linux, occasionally getting lost in the terminal and accidentally breaking things. Attending local user groups to mingle with fellow enthusiasts and marvel at their expertise while secretly hoping no one notices my occasional tech mishaps.
