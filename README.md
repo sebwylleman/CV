@@ -20,7 +20,7 @@ My role at Profiles Personnel in sports event hospitality has been a training gr
 
 **Example**: During a large-scale sporting event with multiple concession stands, we encountered a sudden surge in demand for a specific beverage that threatened to deplete our stock. By quickly analysing real-time inventory data and collaborating with logistics personnel, I identified an under-stocked stand with an excess of a similar product. I coordinated the transfer of surplus stock between stands, ensuring uninterrupted service and preventing customer frustration. This proactive approach minimised disruption and ensured a smooth customer experience throughout the event.
 
-### My Tannour - Line Cook (2021 to 2022)
+### My Tannour - Cook (2021 to 2022)
 
 While seemingly unrelated, my experience as a Line Cook surprisingly aligns with DevOps principles:
 
