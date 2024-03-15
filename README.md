@@ -38,6 +38,6 @@ Beyond technical expertise, the bootcamp fostered essential skills like **proble
 
 ## Hobbies
 
-Playing **Tennis**: Occasionally attempting to hit the ball over the net, often resulting in more laughs than points scored. Embracing the joy of the game without taking myself too seriously.
+Playing **Tennis**: Attempting to keep the ball inside the court, often resulting in more laughs than points scored. Embracing the joy of the game without taking myself too seriously.
 
 Exploring **Linux**: Dabbling in the world of Linux, occasionally getting lost in the terminal and accidentally breaking things. Attending local user groups to mingle with fellow enthusiasts and marvel at their expertise while secretly hoping no one notices my occasional tech mishaps.
