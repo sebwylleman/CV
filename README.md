@@ -2,7 +2,7 @@
 
 Hello! I'm Sebastien, a Makers Academy graduate with a passion for automation and optimising systems. My background in hospitality honed valuable skills like attention to detail, collaboration, and problem-solving, which translate perfectly to the DevOps mindset.
 
-## DevOps Projects
+## Automation Projects
 
 | Name | Description | Tech Used |
 |---|---|---|
