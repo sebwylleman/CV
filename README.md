@@ -32,8 +32,7 @@ While seemingly unrelated, my experience as a Line Cook surprisingly aligns with
 
 ### Makers Academy - Software Engineering (03/2023 to 06/2023)
 
-In my intensive MERN stack web development bootcamp at Makers Academy, I embarked on an accelerated journey into the world of software engineering. This immersive program condensed months of learning into a focused curriculum, equipping me with the technical skills to build modern web applications from the ground up. Through hands-on projects, I gained a strong foundation in both front-end (React.js) and back-end (Node.js & MongoDB). 
-
+Makers Academy's intensive 16-week bootcamp fast-tracked my entry into software engineering. This immersive program packed months of learning into a focused curriculum, giving me the skills to build modern web apps from scratch. Hands-on projects solidified my foundation in both front-end (React.js) and back-end (Node.js & MongoDB). 
 Beyond technical expertise, the bootcamp fostered essential skills like **problem-solving**, **collaboration**, and navigating the **agile** development workflow. This training provided me with a solid foundation in web development.
 
 ## Hobbies
