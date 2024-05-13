@@ -40,4 +40,4 @@ Beyond technical expertise, the bootcamp fostered essential skills like **proble
 
 Playing **Tennis**: Attempting to keep the ball inside the court, often resulting in more laughs than points scored. Embracing the joy of the game without taking myself too seriously.
 
-Exploring **my local tech meetups**: Dabbling in the world of Linux, Go and Systems Engineering. Sometimes getting lost in the terminal and accidentally breaking things. I like to attend local user groups to mingle with fellow enthusiasts and marvel at their expertise, all while secretly hoping no one notices my occasional tech mishaps.
+Exploring local **tech meetups**, immersed in automation and systems engineering. Passionate about streamlining workflows, crafting scripts in Bash, Python, and Go. Let's just say I've triggered a few unintentional server reboots while honing my skills. I enjoy attending local user groups to learn from fellow enthusiasts (and maybe pick up a few troubleshooting tips along the way).
